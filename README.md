@@ -14,9 +14,9 @@ To allow many devices (most likely Raspberry Pis) to connect to my network(s) an
 
 ## What is a RESTful API?
 
-A RESTful API simply means that the API follow a set of principles. On of the main properties is that the API must be stateless and will not store any context. It therefore must not remember what has previously been asked or by whom. Hence every request must contain all of the information required to process the request as the information cannot be found elsewhere.
+A RESTful API simply means that the API follow a set of 6 principles. One of the properties is that the API must be stateless and does not store any context. It therefore must not remember what has previously been asked or by whom. Hence every request must contain all of the information required to process the request as the information cannot be found elsewhere.
 
-**WHAT ARE THE OTHER PRINCIPLES???**
+The other properties can be found [here.](https://restfulapi.net/rest-architectural-constraints/) (external link)
 
 These requests will be made over http/https and hence I shall be following the accompanying standards.
 
